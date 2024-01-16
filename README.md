@@ -8,7 +8,7 @@ Development of a Python script for generating individual data entries from files
 
 ## Author
 
-- [Antonio Serrano](https://github.com/antoniogss)
+- [Antonio Serrano](https://www.linkedin.com/in/antoniogsserrano/)
 
 
 ## License
